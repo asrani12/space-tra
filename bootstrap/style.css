@@ -1,0 +1,44 @@
+*{
+	font-family: times new roman;
+}
+
+/* SERVICES SECTION */
+
+#services_offered{
+	margin-top: 20px;
+
+}
+
+.services_column{
+	padding: 20px;
+	text-align: center;
+}
+
+.services-content{
+	margin-top: 40px;
+
+}
+
+/* GALLERY SECTION */
+
+#gallery{
+	margin-top: 100px;
+}
+
+button{
+	margin: 50px;
+}
+
+footer{
+	font-size: 20px;
+	background-color: black;
+	color: gold;
+}
+
+.footer-link{
+	 color: white;
+}
+
+.footer-link:hover{
+	color: gold;
+}
